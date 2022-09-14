@@ -1,3 +1,7 @@
+% CDS Bootstrapping using Choleskey Decomposition
+%
+% Bruce Haydon (Ottawa (Canada)/New York (USA))
+% 
 %Interest rate curve - US Treasury Rates
 ZeroDates = datenum({'08-Oct-15','08-Jan-16', '08-Jul-17','08-Jul-18', '08-Jul-20','08-Jul-25','08-Jul-45'});
 % Enter Zero-Coupon rates (apostrophe at end indicates as column)
